@@ -1,0 +1,67 @@
+﻿  pch.cpp
+  Adventure Game.cpp
+f:\adventure game\opcje.h(8): warning C4005: "MAX_NUMBER_OF_ITEMS": ponowna definicja makra
+  f:\adventure game\menu.h(8): note: zobacz poprzednią definicję „MAX_NUMBER_OF_ITEMS”
+f:\adventure game\adventure game.cpp(82): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(83): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(84): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(86): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(87): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(88): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(89): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(150): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+f:\adventure game\adventure game.cpp(151): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+f:\adventure game\adventure game.cpp(199): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(206): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(207): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(208): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(425): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(446): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(535): warning C4305: "argument": obcięcie z "double" do "float"
+f:\adventure game\adventure game.cpp(599): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(619): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+f:\adventure game\adventure game.cpp(743): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  Animation.cpp
+  collision.cpp
+f:\adventure game\collision.cpp(66): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+f:\adventure game\collision.cpp(67): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+f:\adventure game\collision.cpp(69): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+f:\adventure game\collision.cpp(70): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+f:\adventure game\collision.cpp(132): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+f:\adventure game\collision.cpp(133): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+f:\adventure game\collision.cpp(134): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  Enemy.cpp
+  Menu.cpp
+  Opcje.cpp
+  Platform.cpp
+  Player.cpp
+  Generowanie kodu...
+  Adventure Game.vcxproj -> F:\Adventure Game\Debug\Adventure Game.exe
